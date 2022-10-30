@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+h2 {
+    color: royalblue;
+}
+
+table {
+    color: aquamarine;
+    border-color: rgb(199, 234, 70);
+    border-spacing: 10px;
+
+}
