@@ -1,9 +1,9 @@
 body {
-    background-color: black;
-    color: aliceblue;
+    background-color: rgb(241, 231, 231);
+    color: rgb(0, 2, 3);
 }
 h2 {
-    color: royalblue;
+    color: rgb(86, 125, 82);
 }
 
 table {
