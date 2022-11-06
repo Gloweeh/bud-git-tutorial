@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(241, 231, 231);
+    color: rgb(0, 2, 3);
+}
+h2 {
+    color: rgb(86, 125, 82);
+}
+
+table {
+    color: aquamarine;
+    border-color: rgb(199, 234, 70);
+    border-spacing: 10px;
+
+}
